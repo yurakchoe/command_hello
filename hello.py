@@ -1,5 +1,6 @@
 // For cmd line modify
-// local  change
+// first : local  change
+// second : github change
 
 print("hello yurak")
 print("hello world")
